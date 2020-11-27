@@ -1,2 +1,3 @@
-100 Days of Python
+#100 Days of Python
+
 Instructor: Dr. Angela Yu
