@@ -73,7 +73,7 @@ def way_to_treasure():
     action = input("Do you want to swim or wait? ")
     action = action.lower()
     if action == "swim":
-      print("You where attacked by a huge monster, which were lurking under the water.")
+      print("You where attacked by a huge monster, which was lurking under the water.")
       gameover()
     elif action == "wait":
       choose_door()
