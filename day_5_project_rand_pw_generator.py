@@ -57,7 +57,7 @@ pass_string_ordered = random_index_letters(nr_letters) + random_index_numbers(nr
 pass_string_ordered = pass_string_ordered.split()
 
 
-#Generate random password from pass_string_ordered
+#Generate random password from pass_string_ordered (without shuffle() function)
 #The index is a random int in the range of pass_string_ordered
 #When a character has been used it is deleted from the string array pass_string
 #_ordered because every character, which was generated randomly before, should be
