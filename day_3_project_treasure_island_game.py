@@ -39,7 +39,7 @@ def win_the_game_or_not():
     print("Just kidding! The chest is full of gold and diamants. You somehow manage to take it all with you. From now on you live a glamurous and wild live!")
     car()
   elif open == "no":
-    print("You decide, that you allready have everything in your live and don't need the money. It was a nice adventure but now your satisfied and go back home.")
+    print("You decide, that you allready have everything in your live and don't need the money. It was a nice adventure but now you are satisfied and go back home.")
   else:
     print("Invalid input!")
     win_the_game_or_not()
